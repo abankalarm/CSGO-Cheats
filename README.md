@@ -1,5 +1,5 @@
 # CSGO Hacks: Aimbot, Wall hacks and more
-I am publishing the CSGO hacks that i wrote last year(2020). These bypass Valve Anti Cheat which used userland hooks. It is primarily written in C++.
+I am publishing the CSGO hacks that i wrote last year(2020). These bypass *Valve Anti Cheat* which used userland hooks. It is primarily written in C++.
 
 ## Features
 1. all kinds of wall (esp, 2d, 3d, glow, status 2d, snap lines, etc. available as options)
